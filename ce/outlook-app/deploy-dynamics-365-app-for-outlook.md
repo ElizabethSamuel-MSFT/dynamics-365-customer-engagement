@@ -23,7 +23,7 @@ search.audienceType:
   - enduser
 search.app: 
   - D365CE
-  - D365Outlook
+  - D365Outlook 
 ---
 # Deploy Dynamics 365 App for Outlook  
 
